@@ -1,0 +1,22 @@
+.container {
+    border: none;
+}
+
+.col-4 {
+    border: none;
+}
+
+.login, .register {
+    position: absolute;
+    top: 30%;
+    left: 50%;
+    transform: translate(-50%, -30%);
+    height: 280px;
+    border: 1px solid black;
+}
+
+.btn-action {
+    border: 1px solid black;
+    background: lightgray;
+    margin: 20px;
+}
